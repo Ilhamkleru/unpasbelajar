@@ -2,6 +2,5 @@ belajar java
 belajar php
 belajar oop
 fundamental
-angular 
-react
+
 laravel
