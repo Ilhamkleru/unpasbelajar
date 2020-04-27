@@ -1,5 +1,7 @@
 belajar java
 belajar php
 belajar oop
-belajar js
 fundamental
+angular 
+react
+laravel
